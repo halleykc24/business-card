@@ -1,0 +1,30 @@
+body{
+    margin:20px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.card{
+    border-bottom:10px solid #491B1B;
+    width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    background:#612F3B;
+    color:#CE8D22;
+    border-radius:20px;
+
+}
+
+.kairi-img{
+    width:200px;
+    border-radius:5px;
+}
+.radient-garden:hover{
+    text-shadow:2px 1px 8px #CE8D22;
+}
+
+
+
+
+
